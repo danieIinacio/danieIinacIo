@@ -1,15 +1,12 @@
 <div align="center">
 
-# 🚀 Daniel Inacio  
+## Daniel Inacio ##
 
 ### 📊 Data Analyst • 🤖 Data Science • 💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer • ☕ Java Dev Júnior ###
 
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/danieIinacio/danieIinacio/output/snake.svg" alt="Snake animation" />
-
 
 ## Quem sou eu?
 
