@@ -1,11 +1,9 @@
 <div align="center">
 
-# 🚀 Daniel Inácio  
+# 🚀 Daniel Inacio  
 
 ### 📊 Analista de Dados • 💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer  
 ### 🤖 Data Science • ☕ Java Dev Júnior  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Transformando+dados+em+decisões;Criando+produtos+orientados+a+dados;Código%2C+design+e+análise+no+mesmo+mindset" />
 
 </div>
 
@@ -81,36 +79,6 @@ Meu diferencial está em **conectar análise de dados, desenvolvimento full stac
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📌 📊 Análise de Dados – Vendas
-🔹 Identificação de padrões, métricas e oportunidades  
-**Stack:** Python • Pandas • SQL  
-🔗 https://github.com/SEU_USUARIO/analise-vendas  
-
----
-
-### 📌 📈 Dashboard Executivo
-🔹 Visualização de dados para tomada de decisão  
-**Stack:** Power BI • SQL  
-🔗 https://github.com/SEU_USUARIO/dashboard-executivo  
-
----
-
-### 📌 💻 Aplicação Full Stack orientada a dados
-🔹 Sistema completo com backend, banco e interface  
-**Stack:** React • Node.js • PostgreSQL  
-🔗 https://github.com/SEU_USUARIO/app-fullstack-dados  
-
----
-
-### 📌 ☕ Projeto Java (Dev Júnior)
-🔹 Foco em lógica, POO e boas práticas  
-**Stack:** Java  
-🔗 https://github.com/SEU_USUARIO/java-project  
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -131,11 +99,11 @@ Meu diferencial está em **conectar análise de dados, desenvolvimento full stac
 ## 🌍 Conecte-se comigo
 
 <p align="center">
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="https://www.linkedin.com/in/daniel-inacio-0aa1a8201/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@email.com">
+<a href="mailto:dan-ielinacio@outlook.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
