@@ -9,7 +9,7 @@
 
 ---
 
-![Snake](https://github.com/danielinacio/danielinacio/blob/output/snake.svg)
+![Snake](https://raw.githubusercontent.com/danielinacio/danielinacio/output/snake.svg)
 
 
 ## Quem sou eu?
@@ -95,7 +95,7 @@ Meu diferencial está em **conectar análise de dados, desenvolvimento full stac
 
 ## 🐍 Animação de Contribuições
 
-![Snake animation](https://github.com/danieiinacio/danieiinacio/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/danielinacio/danielinacio/output/snake.svg)
 
 ---
 
