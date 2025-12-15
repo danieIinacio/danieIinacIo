@@ -83,8 +83,8 @@ Meu diferencial está em **conectar análise de dados, desenvolvimento full stac
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=danieiinacio&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieiinacio&layout=compact&theme=tokyonight" />
 
 </div>
 
