@@ -92,7 +92,7 @@ Meu diferencial está em **conectar análise de dados, desenvolvimento full stac
 
 ## 🐍 Animação de Contribuições
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danieiinacio/danieiinacio/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
