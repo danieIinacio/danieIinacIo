@@ -8,7 +8,7 @@
 
 ---
 
-![Snake](https://raw.githubusercontent.com/danielinacio/danielinacio/output/snake.svg)
+<img src="https://raw.githubusercontent.com/danieIinacio/danieIinacio/output/snake.svg" alt="Snake animation" />
 
 
 ## Quem sou eu?
@@ -94,7 +94,7 @@ Meu diferencial está em **conectar análise de dados, desenvolvimento full stac
 
 ## 🐍 Animação de Contribuições
 
-![Snake](https://raw.githubusercontent.com/danielinacio/danielinacio/output/snake.svg)
+<img src="https://raw.githubusercontent.com/danieIinacio/danieIinacio/output/snake.svg" alt="Snake animation" />
 
 ---
 
