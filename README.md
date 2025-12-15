@@ -9,9 +9,12 @@
 
 ---
 
-## 🧠 Quem sou eu
+![Snake](https://github.com/danielinacio/danielinacio/blob/output/snake.svg)
 
-Sou um **desenvolvedor e analista em início de carreira**, com foco em **dados, produto e experiência do usuário**.  
+
+## Quem sou eu?
+
+Sou um **Desenvolvedor e Analista de Dados em início de carreira**, com foco em **dados, produto e experiência do usuário**.  
 Meu diferencial está em **conectar análise de dados, desenvolvimento full stack e UX/UI** para criar soluções completas e bem pensadas.
 
 💡 Não entrego apenas código ou gráficos — entrego **insights, produto e valor de negócio**.
