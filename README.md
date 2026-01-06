@@ -2,7 +2,7 @@
 
 ## Daniel Inacio ##
 
-### 📊 Data Analyst • 🤖 Data Science • 💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer • ☕ Java Dev Júnior ###
+### 📊 Data Analyst • 🤖 Data Science • 💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer • ☕ Java Dev Jr ###
 
 </div>
 
