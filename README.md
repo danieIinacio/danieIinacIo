@@ -1,6 +1,6 @@
 <div align="center">
 
-## Daniel Inacio ##
+## DANIEL  INACIO ##
 
 ### 📊 Data Analyst • 🤖 Data Science • 💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer • ☕ Java Dev Jr ###
 
